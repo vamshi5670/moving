@@ -1,0 +1,12 @@
+object pre defined function 
+aaray pre defined function
+
+state, propos, react hooks, react life cycles, hoc (higher order components),axios library or fetch , routing , material UI.
+
+Redux saga
+
+
+
+
+
+ 
